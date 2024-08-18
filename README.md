@@ -10,3 +10,5 @@ So, what is really surprising about this is that we're using animated assets, wh
 ![Preview](/gif.gif)
 
 ![App UI](/ui.png)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e840db72-7950-440c-ab4b-4ae88c19d2c2/deploy-status)](https://app.netlify.com/sites/animatedcourse/deploys)
